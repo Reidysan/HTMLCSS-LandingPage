@@ -225,14 +225,14 @@ section {
     padding: 30px;
     color: #ffffff;
 }
-.full-banner h4 {
+.full-banner-sidebar h4 {
     size: 40px;
     font-weight: 700;
     font-style: italic;
     color: #637f94;
     line-height: 1;
 }
-.full-banner > h4::after {
+.full-banner-sidebar h4:after {
     content: "";
     width: 100px;
     height: 1px;
